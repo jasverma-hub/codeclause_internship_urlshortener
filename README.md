@@ -1,6 +1,6 @@
 # CodeClause_Internship_URL Shortener
 
-## Introduction 
+# Introduction 
 
 The URL shortener project is a web application designed to simplify long URLs, making them more user-friendly and manageable. It generates short, unique URLs that redirect users to the original long URLs, making them easier to share on various platforms.
 
